@@ -1,0 +1,65 @@
+
+body{
+    font-family:serif;
+    background-image: radial-gradient(circle, #5c0067 0%, #00d4ff 100%);
+
+}
+
+h1{
+    color: white;
+    border: 2px solid white;
+    border-radius: 50px;
+    text-align: center;
+}
+
+
+p{
+    font-weight:bold;
+    color:white;
+}
+
+img{
+    border: 5px solid white;
+}S
+
+li{
+    color: whiteS;
+}
+
+h2{
+    color: white;
+}
+p{
+
+    color: white;
+}
+
+ol{
+    color:black;
+}
+
+blockquote {
+    color: white;
+    font-size: larger;
+}
+h3{
+    color: white;
+}
+site{
+    font-size: medium;
+}
+
+h4{
+    color: white;
+}
+
+summary{
+    font-size:x-large;
+}
+
+a:link{
+    color:#5c0067
+}
+a:focus{
+    background: #00d4ff;
+}
